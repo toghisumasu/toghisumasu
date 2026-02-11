@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toghisumasu
 - 👀 I’m interested in libraries 
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning ruby and rust language.
 - 💞️ I’m looking to collaborate on nothing now
 - 📫 How to reach me instagram 
 
